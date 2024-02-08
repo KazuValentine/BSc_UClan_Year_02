@@ -1,0 +1,7 @@
+C:\My Files\Studies (BackedUp to GIT)\UClan (BsC)\Year 2\Practicals\C#\0004 - Bro Code\bin\Debug\0004 - Bro Code.exe.config
+C:\My Files\Studies (BackedUp to GIT)\UClan (BsC)\Year 2\Practicals\C#\0004 - Bro Code\bin\Debug\0004 - Bro Code.exe
+C:\My Files\Studies (BackedUp to GIT)\UClan (BsC)\Year 2\Practicals\C#\0004 - Bro Code\bin\Debug\0004 - Bro Code.pdb
+C:\My Files\Studies (BackedUp to GIT)\UClan (BsC)\Year 2\Practicals\C#\0004 - Bro Code\obj\Debug\0004 - Bro Code.csproj.AssemblyReference.cache
+C:\My Files\Studies (BackedUp to GIT)\UClan (BsC)\Year 2\Practicals\C#\0004 - Bro Code\obj\Debug\0004 - Bro Code.csproj.CoreCompileInputs.cache
+C:\My Files\Studies (BackedUp to GIT)\UClan (BsC)\Year 2\Practicals\C#\0004 - Bro Code\obj\Debug\0004 - Bro Code.exe
+C:\My Files\Studies (BackedUp to GIT)\UClan (BsC)\Year 2\Practicals\C#\0004 - Bro Code\obj\Debug\0004 - Bro Code.pdb

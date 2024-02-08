@@ -1,0 +1,7 @@
+C:\My Files\Studies (BackedUp to GIT)\UClan (BsC)\Year 2\Practicals\C#\0005\bin\Debug\0005.exe.config
+C:\My Files\Studies (BackedUp to GIT)\UClan (BsC)\Year 2\Practicals\C#\0005\bin\Debug\0005.exe
+C:\My Files\Studies (BackedUp to GIT)\UClan (BsC)\Year 2\Practicals\C#\0005\bin\Debug\0005.pdb
+C:\My Files\Studies (BackedUp to GIT)\UClan (BsC)\Year 2\Practicals\C#\0005\obj\Debug\0005.csproj.AssemblyReference.cache
+C:\My Files\Studies (BackedUp to GIT)\UClan (BsC)\Year 2\Practicals\C#\0005\obj\Debug\0005.csproj.CoreCompileInputs.cache
+C:\My Files\Studies (BackedUp to GIT)\UClan (BsC)\Year 2\Practicals\C#\0005\obj\Debug\0005.exe
+C:\My Files\Studies (BackedUp to GIT)\UClan (BsC)\Year 2\Practicals\C#\0005\obj\Debug\0005.pdb

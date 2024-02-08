@@ -1,0 +1,14 @@
+C:\My Files\Studies (BackedUp to GIT)\UClan (BsC)\Year 2\Practicals\C#\0003\bin\Debug\net7.0\0003.exe
+C:\My Files\Studies (BackedUp to GIT)\UClan (BsC)\Year 2\Practicals\C#\0003\bin\Debug\net7.0\0003.deps.json
+C:\My Files\Studies (BackedUp to GIT)\UClan (BsC)\Year 2\Practicals\C#\0003\bin\Debug\net7.0\0003.runtimeconfig.json
+C:\My Files\Studies (BackedUp to GIT)\UClan (BsC)\Year 2\Practicals\C#\0003\bin\Debug\net7.0\0003.dll
+C:\My Files\Studies (BackedUp to GIT)\UClan (BsC)\Year 2\Practicals\C#\0003\bin\Debug\net7.0\0003.pdb
+C:\My Files\Studies (BackedUp to GIT)\UClan (BsC)\Year 2\Practicals\C#\0003\obj\Debug\net7.0\0003.GeneratedMSBuildEditorConfig.editorconfig
+C:\My Files\Studies (BackedUp to GIT)\UClan (BsC)\Year 2\Practicals\C#\0003\obj\Debug\net7.0\0003.AssemblyInfoInputs.cache
+C:\My Files\Studies (BackedUp to GIT)\UClan (BsC)\Year 2\Practicals\C#\0003\obj\Debug\net7.0\0003.AssemblyInfo.cs
+C:\My Files\Studies (BackedUp to GIT)\UClan (BsC)\Year 2\Practicals\C#\0003\obj\Debug\net7.0\0003.csproj.CoreCompileInputs.cache
+C:\My Files\Studies (BackedUp to GIT)\UClan (BsC)\Year 2\Practicals\C#\0003\obj\Debug\net7.0\0003.dll
+C:\My Files\Studies (BackedUp to GIT)\UClan (BsC)\Year 2\Practicals\C#\0003\obj\Debug\net7.0\refint\0003.dll
+C:\My Files\Studies (BackedUp to GIT)\UClan (BsC)\Year 2\Practicals\C#\0003\obj\Debug\net7.0\0003.pdb
+C:\My Files\Studies (BackedUp to GIT)\UClan (BsC)\Year 2\Practicals\C#\0003\obj\Debug\net7.0\0003.genruntimeconfig.cache
+C:\My Files\Studies (BackedUp to GIT)\UClan (BsC)\Year 2\Practicals\C#\0003\obj\Debug\net7.0\ref\0003.dll

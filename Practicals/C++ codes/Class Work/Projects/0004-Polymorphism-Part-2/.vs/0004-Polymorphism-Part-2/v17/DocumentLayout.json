@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\My Files\\Studies\\UClan (BsC)\\Year 2\\Practicals\\C\u002B\u002B codes\\Class Work\\Projects\\0004-Polymorphism-Part-2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C694AB5A-08BE-4D4C-95D9-85B9EF9EB554}|0004-Polymorphism-Part-2\\0004-Polymorphism-Part-2.vcxproj|C:\\My Files\\Studies\\UClan (BsC)\\Year 2\\Practicals\\C\u002B\u002B codes\\Class Work\\Projects\\0004-Polymorphism-Part-2\\0004-Polymorphism-Part-2\\0004-Polymorphism-Part-2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C694AB5A-08BE-4D4C-95D9-85B9EF9EB554}|0004-Polymorphism-Part-2\\0004-Polymorphism-Part-2.vcxproj|solutionrelative:0004-Polymorphism-Part-2\\0004-Polymorphism-Part-2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "0004-Polymorphism-Part-2.cpp",
+              "DocumentMoniker": "C:\\My Files\\Studies\\UClan (BsC)\\Year 2\\Practicals\\C\u002B\u002B codes\\Class Work\\Projects\\0004-Polymorphism-Part-2\\0004-Polymorphism-Part-2\\0004-Polymorphism-Part-2.cpp",
+              "RelativeDocumentMoniker": "0004-Polymorphism-Part-2\\0004-Polymorphism-Part-2.cpp",
+              "ToolTip": "C:\\My Files\\Studies\\UClan (BsC)\\Year 2\\Practicals\\C\u002B\u002B codes\\Class Work\\Projects\\0004-Polymorphism-Part-2\\0004-Polymorphism-Part-2\\0004-Polymorphism-Part-2.cpp",
+              "RelativeToolTip": "0004-Polymorphism-Part-2\\0004-Polymorphism-Part-2.cpp",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAYAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-02-15T12:45:51.711Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

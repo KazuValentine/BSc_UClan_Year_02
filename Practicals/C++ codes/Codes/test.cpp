@@ -1,19 +1,42 @@
 #include <iostream>
 #include <vector>
 
-int main() {
-    std::vector<int> myVector = {1, 2, 3, 4, 5};
-
-    // Incorrect usage, will result in a compilation error
-    // myVector.insert(2, 10);
-
-    // Correct usage
-    myVector.insert(myVector.begin() + 2, 10);
-
-    // Displaying the modified vector
-    for (const auto& element : myVector) {
-        std::cout << element << " ";
+class test
+{
+private:
+    std::vector<std::string> mNames;
+public:
+    void print();
+    template<typename... names>
+    test(names&...name);
+    ~test();
+};
+template<typename... names>
+test::test(names&...name)
+{
+    for (std::string& name : names) {
+        mNames.push_back(name);
     }
+    
+}
+
+test::~test()
+{
+}
+
+void test::print()
+{
+    for (const std::string& name : mNames)
+    {
+        std::cout << name << '\t';
+    }
+    
+}
+
+int main() {
+    
+    test* pTest = new test("John", "Amara", "Sirimath");
+    pTest->print();
 
     return 0;
 }

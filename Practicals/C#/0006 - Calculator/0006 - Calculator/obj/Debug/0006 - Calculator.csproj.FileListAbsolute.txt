@@ -1,0 +1,14 @@
+C:\My Files\Studies\UClan (BsC)\Year 2\Semester 1 & 2\Advanced Programming CO2402\Assignment 01\G21236321\0006 - Calculator\0006 - Calculator\bin\Debug\0006 - Calculator.exe.config
+C:\My Files\Studies\UClan (BsC)\Year 2\Semester 1 & 2\Advanced Programming CO2402\Assignment 01\G21236321\0006 - Calculator\0006 - Calculator\bin\Debug\0006 - Calculator.exe
+C:\My Files\Studies\UClan (BsC)\Year 2\Semester 1 & 2\Advanced Programming CO2402\Assignment 01\G21236321\0006 - Calculator\0006 - Calculator\bin\Debug\0006 - Calculator.pdb
+C:\My Files\Studies\UClan (BsC)\Year 2\Semester 1 & 2\Advanced Programming CO2402\Assignment 01\G21236321\0006 - Calculator\0006 - Calculator\obj\Debug\0006 - Calculator.csproj.AssemblyReference.cache
+C:\My Files\Studies\UClan (BsC)\Year 2\Semester 1 & 2\Advanced Programming CO2402\Assignment 01\G21236321\0006 - Calculator\0006 - Calculator\obj\Debug\0006 - Calculator.csproj.CoreCompileInputs.cache
+C:\My Files\Studies\UClan (BsC)\Year 2\Semester 1 & 2\Advanced Programming CO2402\Assignment 01\G21236321\0006 - Calculator\0006 - Calculator\obj\Debug\0006 - Calculator.exe
+C:\My Files\Studies\UClan (BsC)\Year 2\Semester 1 & 2\Advanced Programming CO2402\Assignment 01\G21236321\0006 - Calculator\0006 - Calculator\obj\Debug\0006 - Calculator.pdb
+C:\My Files\Studies\UClan (BsC)\Year 2\Practicals\C#\0006 - Calculator\0006 - Calculator\bin\Debug\0006 - Calculator.exe.config
+C:\My Files\Studies\UClan (BsC)\Year 2\Practicals\C#\0006 - Calculator\0006 - Calculator\bin\Debug\0006 - Calculator.exe
+C:\My Files\Studies\UClan (BsC)\Year 2\Practicals\C#\0006 - Calculator\0006 - Calculator\bin\Debug\0006 - Calculator.pdb
+C:\My Files\Studies\UClan (BsC)\Year 2\Practicals\C#\0006 - Calculator\0006 - Calculator\obj\Debug\0006 - Calculator.csproj.AssemblyReference.cache
+C:\My Files\Studies\UClan (BsC)\Year 2\Practicals\C#\0006 - Calculator\0006 - Calculator\obj\Debug\0006 - Calculator.csproj.CoreCompileInputs.cache
+C:\My Files\Studies\UClan (BsC)\Year 2\Practicals\C#\0006 - Calculator\0006 - Calculator\obj\Debug\0006 - Calculator.exe
+C:\My Files\Studies\UClan (BsC)\Year 2\Practicals\C#\0006 - Calculator\0006 - Calculator\obj\Debug\0006 - Calculator.pdb

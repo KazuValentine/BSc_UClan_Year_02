@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\My Files\\Studies\\UClan (BsC)\\Year 2\\Practicals\\C#\\0008 - Exception Handling\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{31E8808F-566A-469E-805A-DF3D918E90CE}|0008 - Exception Handling\\0008 - Exception Handling.csproj|c:\\my files\\studies\\uclan (bsc)\\year 2\\practicals\\c#\\0008 - exception handling\\0008 - exception handling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31E8808F-566A-469E-805A-DF3D918E90CE}|0008 - Exception Handling\\0008 - Exception Handling.csproj|solutionrelative:0008 - exception handling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\My Files\\Studies\\UClan (BsC)\\Year 2\\Practicals\\C#\\0008 - Exception Handling\\0008 - Exception Handling\\Program.cs",
+              "RelativeDocumentMoniker": "0008 - Exception Handling\\Program.cs",
+              "ToolTip": "C:\\My Files\\Studies\\UClan (BsC)\\Year 2\\Practicals\\C#\\0008 - Exception Handling\\0008 - Exception Handling\\Program.cs",
+              "RelativeToolTip": "0008 - Exception Handling\\Program.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAYwBgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T05:29:31.559Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

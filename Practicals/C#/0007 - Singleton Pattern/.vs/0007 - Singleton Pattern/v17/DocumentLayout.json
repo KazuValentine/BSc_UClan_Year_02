@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\My Files\\Studies\\UClan (BsC)\\Year 2\\Practicals\\C#\\0007 - Singleton Pattern\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A32EEB47-8914-4E54-862F-97BB2E2493D6}|0007 - Singleton Pattern\\0007 - Singleton Pattern.csproj|c:\\my files\\studies\\uclan (bsc)\\year 2\\practicals\\c#\\0007 - singleton pattern\\0007 - singleton pattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A32EEB47-8914-4E54-862F-97BB2E2493D6}|0007 - Singleton Pattern\\0007 - Singleton Pattern.csproj|solutionrelative:0007 - singleton pattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A32EEB47-8914-4E54-862F-97BB2E2493D6}|0007 - Singleton Pattern\\0007 - Singleton Pattern.csproj|c:\\my files\\studies\\uclan (bsc)\\year 2\\practicals\\c#\\0007 - singleton pattern\\0007 - singleton pattern\\singleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A32EEB47-8914-4E54-862F-97BB2E2493D6}|0007 - Singleton Pattern\\0007 - Singleton Pattern.csproj|solutionrelative:0007 - singleton pattern\\singleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Singleton.cs",
+              "DocumentMoniker": "C:\\My Files\\Studies\\UClan (BsC)\\Year 2\\Practicals\\C#\\0007 - Singleton Pattern\\0007 - Singleton Pattern\\Singleton.cs",
+              "RelativeDocumentMoniker": "0007 - Singleton Pattern\\Singleton.cs",
+              "ToolTip": "C:\\My Files\\Studies\\UClan (BsC)\\Year 2\\Practicals\\C#\\0007 - Singleton Pattern\\0007 - Singleton Pattern\\Singleton.cs",
+              "RelativeToolTip": "0007 - Singleton Pattern\\Singleton.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T08:03:34.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\My Files\\Studies\\UClan (BsC)\\Year 2\\Practicals\\C#\\0007 - Singleton Pattern\\0007 - Singleton Pattern\\Program.cs",
+              "RelativeDocumentMoniker": "0007 - Singleton Pattern\\Program.cs",
+              "ToolTip": "C:\\My Files\\Studies\\UClan (BsC)\\Year 2\\Practicals\\C#\\0007 - Singleton Pattern\\0007 - Singleton Pattern\\Program.cs",
+              "RelativeToolTip": "0007 - Singleton Pattern\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T08:02:48.089Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

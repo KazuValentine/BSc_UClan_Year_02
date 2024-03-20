@@ -1,0 +1,7 @@
+C:\My Files\Studies\UClan (BsC)\Year 2\Practicals\C#\0008 - Exception Handling\0008 - Exception Handling\bin\Debug\0008 - Exception Handling.exe.config
+C:\My Files\Studies\UClan (BsC)\Year 2\Practicals\C#\0008 - Exception Handling\0008 - Exception Handling\bin\Debug\0008 - Exception Handling.exe
+C:\My Files\Studies\UClan (BsC)\Year 2\Practicals\C#\0008 - Exception Handling\0008 - Exception Handling\bin\Debug\0008 - Exception Handling.pdb
+C:\My Files\Studies\UClan (BsC)\Year 2\Practicals\C#\0008 - Exception Handling\0008 - Exception Handling\obj\Debug\0008 - Exception Handling.csproj.AssemblyReference.cache
+C:\My Files\Studies\UClan (BsC)\Year 2\Practicals\C#\0008 - Exception Handling\0008 - Exception Handling\obj\Debug\0008 - Exception Handling.csproj.CoreCompileInputs.cache
+C:\My Files\Studies\UClan (BsC)\Year 2\Practicals\C#\0008 - Exception Handling\0008 - Exception Handling\obj\Debug\0008 - Exception Handling.exe
+C:\My Files\Studies\UClan (BsC)\Year 2\Practicals\C#\0008 - Exception Handling\0008 - Exception Handling\obj\Debug\0008 - Exception Handling.pdb

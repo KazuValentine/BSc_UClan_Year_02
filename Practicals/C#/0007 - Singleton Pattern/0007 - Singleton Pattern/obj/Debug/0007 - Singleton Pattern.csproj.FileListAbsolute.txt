@@ -1,0 +1,7 @@
+C:\My Files\Studies\UClan (BsC)\Year 2\Practicals\C#\0007 - Singleton Pattern\0007 - Singleton Pattern\bin\Debug\0007 - Singleton Pattern.exe.config
+C:\My Files\Studies\UClan (BsC)\Year 2\Practicals\C#\0007 - Singleton Pattern\0007 - Singleton Pattern\bin\Debug\0007 - Singleton Pattern.exe
+C:\My Files\Studies\UClan (BsC)\Year 2\Practicals\C#\0007 - Singleton Pattern\0007 - Singleton Pattern\bin\Debug\0007 - Singleton Pattern.pdb
+C:\My Files\Studies\UClan (BsC)\Year 2\Practicals\C#\0007 - Singleton Pattern\0007 - Singleton Pattern\obj\Debug\0007 - Singleton Pattern.csproj.AssemblyReference.cache
+C:\My Files\Studies\UClan (BsC)\Year 2\Practicals\C#\0007 - Singleton Pattern\0007 - Singleton Pattern\obj\Debug\0007 - Singleton Pattern.csproj.CoreCompileInputs.cache
+C:\My Files\Studies\UClan (BsC)\Year 2\Practicals\C#\0007 - Singleton Pattern\0007 - Singleton Pattern\obj\Debug\0007 - Singleton Pattern.exe
+C:\My Files\Studies\UClan (BsC)\Year 2\Practicals\C#\0007 - Singleton Pattern\0007 - Singleton Pattern\obj\Debug\0007 - Singleton Pattern.pdb

@@ -22,17 +22,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Mattrix.cpp",
               "DocumentMoniker": "C:\\My Files\\Studies\\UClan (BsC)\\Year 2\\Practicals\\C\u002B\u002B codes\\Projects\\0001-Mattrix\\Mattrix.cpp",
               "RelativeDocumentMoniker": "Mattrix.cpp",
-              "ToolTip": "C:\\My Files\\Studies\\UClan (BsC)\\Year 2\\Practicals\\C\u002B\u002B codes\\Projects\\0001-Mattrix\\Mattrix.cpp*",
-              "RelativeToolTip": "Mattrix.cpp*",
-              "ViewState": "AQIAADYAAAAAAAAAAAAAAEUAAAAAAAAA",
+              "ToolTip": "C:\\My Files\\Studies\\UClan (BsC)\\Year 2\\Practicals\\C\u002B\u002B codes\\Projects\\0001-Mattrix\\Mattrix.cpp",
+              "RelativeToolTip": "Mattrix.cpp",
+              "ViewState": "AQIAAO0AAAAAAAAAAAAAAEUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-03-08T10:38:07.399Z",
               "EditorCaption": ""
@@ -47,8 +51,7 @@
               "RelativeToolTip": "Mattrix.hpp",
               "ViewState": "AQIAAA8AAAAAAAAAAAAAABIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-03-08T10:38:07.489Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-08T10:38:07.489Z"
             },
             {
               "$type": "Document",
@@ -60,8 +63,7 @@
               "RelativeToolTip": "0001-Mattrix.cpp*",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-03-08T10:38:07.644Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-08T10:38:07.644Z"
             }
           ]
         }

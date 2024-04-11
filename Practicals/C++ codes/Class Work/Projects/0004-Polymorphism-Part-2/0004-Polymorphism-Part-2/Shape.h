@@ -1,6 +1,3 @@
-#ifdef _MSC_VER
-#pragma once
-#endif
 #ifndef SHAPE
 #define SHAPE
 

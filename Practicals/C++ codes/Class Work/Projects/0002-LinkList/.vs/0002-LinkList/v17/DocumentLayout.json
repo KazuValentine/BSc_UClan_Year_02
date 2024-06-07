@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\My Files\\Studies\\UClan (BsC)\\Year 2\\Practicals\\C\u002B\u002B codes\\Class Work\\Projects\\0002-LinkList\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9EE4FCBE-1AE7-49FD-85F9-F482D0C24C74}|0002-LinkList.vcxproj|C:\\My Files\\Studies\\UClan (BsC)\\Year 2\\Practicals\\C\u002B\u002B codes\\Class Work\\Projects\\0002-LinkList\\LinkList.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9EE4FCBE-1AE7-49FD-85F9-F482D0C24C74}|0002-LinkList.vcxproj|solutionrelative:LinkList.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EE4FCBE-1AE7-49FD-85F9-F482D0C24C74}|0002-LinkList.vcxproj|C:\\My Files\\Studies\\UClan (BsC)\\Year 2\\Practicals\\C\u002B\u002B codes\\Class Work\\Projects\\0002-LinkList\\0002-LinkList.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9EE4FCBE-1AE7-49FD-85F9-F482D0C24C74}|0002-LinkList.vcxproj|solutionrelative:0002-LinkList.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9EE4FCBE-1AE7-49FD-85F9-F482D0C24C74}|0002-LinkList.vcxproj|C:\\My Files\\Studies\\UClan (BsC)\\Year 2\\Practicals\\C\u002B\u002B codes\\Class Work\\Projects\\0002-LinkList\\LinkList.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{9EE4FCBE-1AE7-49FD-85F9-F482D0C24C74}|0002-LinkList.vcxproj|solutionrelative:LinkList.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -11,16 +19,8 @@
       "RelativeMoniker": "D:0:0:{9EE4FCBE-1AE7-49FD-85F9-F482D0C24C74}|0002-LinkList.vcxproj|solutionrelative:Node.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9EE4FCBE-1AE7-49FD-85F9-F482D0C24C74}|0002-LinkList.vcxproj|C:\\My Files\\Studies\\UClan (BsC)\\Year 2\\Practicals\\C\u002B\u002B codes\\Class Work\\Projects\\0002-LinkList\\0002-LinkList.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{9EE4FCBE-1AE7-49FD-85F9-F482D0C24C74}|0002-LinkList.vcxproj|solutionrelative:0002-LinkList.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9EE4FCBE-1AE7-49FD-85F9-F482D0C24C74}|0002-LinkList.vcxproj|C:\\My Files\\Studies\\UClan (BsC)\\Year 2\\Practicals\\C\u002B\u002B codes\\Class Work\\Projects\\0002-LinkList\\Node.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{9EE4FCBE-1AE7-49FD-85F9-F482D0C24C74}|0002-LinkList.vcxproj|solutionrelative:Node.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9EE4FCBE-1AE7-49FD-85F9-F482D0C24C74}|0002-LinkList.vcxproj|C:\\My Files\\Studies\\UClan (BsC)\\Year 2\\Practicals\\C\u002B\u002B codes\\Class Work\\Projects\\0002-LinkList\\LinkList.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{9EE4FCBE-1AE7-49FD-85F9-F482D0C24C74}|0002-LinkList.vcxproj|solutionrelative:LinkList.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,15 +30,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Node.cpp",
               "DocumentMoniker": "C:\\My Files\\Studies\\UClan (BsC)\\Year 2\\Practicals\\C\u002B\u002B codes\\Class Work\\Projects\\0002-LinkList\\node.cpp",
               "RelativeDocumentMoniker": "node.cpp",
@@ -50,7 +46,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Node.hpp",
               "DocumentMoniker": "C:\\My Files\\Studies\\UClan (BsC)\\Year 2\\Practicals\\C\u002B\u002B codes\\Class Work\\Projects\\0002-LinkList\\node.hpp",
               "RelativeDocumentMoniker": "node.hpp",
@@ -62,40 +58,42 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "LinkList.cpp",
               "DocumentMoniker": "C:\\My Files\\Studies\\UClan (BsC)\\Year 2\\Practicals\\C\u002B\u002B codes\\Class Work\\Projects\\0002-LinkList\\LinkList.cpp",
               "RelativeDocumentMoniker": "LinkList.cpp",
               "ToolTip": "C:\\My Files\\Studies\\UClan (BsC)\\Year 2\\Practicals\\C\u002B\u002B codes\\Class Work\\Projects\\0002-LinkList\\LinkList.cpp",
               "RelativeToolTip": "LinkList.cpp",
-              "ViewState": "AQIAANMAAAAAAAAAAAArwN0AAAABAAAA",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAN0AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-03-26T16:46:44.55Z"
+              "WhenOpened": "2024-03-26T16:46:44.55Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "LinkList.hpp",
               "DocumentMoniker": "C:\\My Files\\Studies\\UClan (BsC)\\Year 2\\Practicals\\C\u002B\u002B codes\\Class Work\\Projects\\0002-LinkList\\LinkList.hpp",
               "RelativeDocumentMoniker": "LinkList.hpp",
               "ToolTip": "C:\\My Files\\Studies\\UClan (BsC)\\Year 2\\Practicals\\C\u002B\u002B codes\\Class Work\\Projects\\0002-LinkList\\LinkList.hpp",
               "RelativeToolTip": "LinkList.hpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAACAAAA",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-03-26T16:46:44.596Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "0002-LinkList.cpp",
               "DocumentMoniker": "C:\\My Files\\Studies\\UClan (BsC)\\Year 2\\Practicals\\C\u002B\u002B codes\\Class Work\\Projects\\0002-LinkList\\0002-LinkList.cpp",
               "RelativeDocumentMoniker": "0002-LinkList.cpp",
               "ToolTip": "C:\\My Files\\Studies\\UClan (BsC)\\Year 2\\Practicals\\C\u002B\u002B codes\\Class Work\\Projects\\0002-LinkList\\0002-LinkList.cpp",
               "RelativeToolTip": "0002-LinkList.cpp",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAowAcAAAABAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAcAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-03-26T16:46:44.709Z"
+              "WhenOpened": "2024-03-26T16:46:44.709Z",
+              "EditorCaption": ""
             }
           ]
         }

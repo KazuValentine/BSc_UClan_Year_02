@@ -1,0 +1,129 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\My Files\\Studies\\UClan (BsC)\\Year 2\\Practicals\\C#\\GUI-001\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BD256F62-0C8B-462B-9CF9-1C1FE72C5699}|GUI-001\\GUI-001.csproj|c:\\my files\\studies\\uclan (bsc)\\year 2\\practicals\\c#\\gui-001\\gui-001\\formavailablecars.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD256F62-0C8B-462B-9CF9-1C1FE72C5699}|GUI-001\\GUI-001.csproj|solutionrelative:gui-001\\formavailablecars.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD256F62-0C8B-462B-9CF9-1C1FE72C5699}|GUI-001\\GUI-001.csproj|c:\\my files\\studies\\uclan (bsc)\\year 2\\practicals\\c#\\gui-001\\gui-001\\formavailablecars.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD256F62-0C8B-462B-9CF9-1C1FE72C5699}|GUI-001\\GUI-001.csproj|solutionrelative:gui-001\\formavailablecars.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD256F62-0C8B-462B-9CF9-1C1FE72C5699}|GUI-001\\GUI-001.csproj|c:\\my files\\studies\\uclan (bsc)\\year 2\\practicals\\c#\\gui-001\\gui-001\\formavailablecars.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BD256F62-0C8B-462B-9CF9-1C1FE72C5699}|GUI-001\\GUI-001.csproj|solutionrelative:gui-001\\formavailablecars.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD256F62-0C8B-462B-9CF9-1C1FE72C5699}|GUI-001\\GUI-001.csproj|c:\\my files\\studies\\uclan (bsc)\\year 2\\practicals\\c#\\gui-001\\gui-001\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD256F62-0C8B-462B-9CF9-1C1FE72C5699}|GUI-001\\GUI-001.csproj|solutionrelative:gui-001\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD256F62-0C8B-462B-9CF9-1C1FE72C5699}|GUI-001\\GUI-001.csproj|C:\\My Files\\Studies\\UClan (BsC)\\Year 2\\Practicals\\C#\\GUI-001\\gui-001\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD256F62-0C8B-462B-9CF9-1C1FE72C5699}|GUI-001\\GUI-001.csproj|solutionrelative:gui-001\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD256F62-0C8B-462B-9CF9-1C1FE72C5699}|GUI-001\\GUI-001.csproj|C:\\My Files\\Studies\\UClan (BsC)\\Year 2\\Practicals\\C#\\GUI-001\\gui-001\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BD256F62-0C8B-462B-9CF9-1C1FE72C5699}|GUI-001\\GUI-001.csproj|solutionrelative:gui-001\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormAvailableCars.Designer.cs",
+              "DocumentMoniker": "C:\\My Files\\Studies\\UClan (BsC)\\Year 2\\Practicals\\C#\\GUI-001\\GUI-001\\FormAvailableCars.Designer.cs",
+              "RelativeDocumentMoniker": "GUI-001\\FormAvailableCars.Designer.cs",
+              "ToolTip": "C:\\My Files\\Studies\\UClan (BsC)\\Year 2\\Practicals\\C#\\GUI-001\\GUI-001\\FormAvailableCars.Designer.cs",
+              "RelativeToolTip": "GUI-001\\FormAvailableCars.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T15:30:03.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormAvailableCars.cs [Design]",
+              "DocumentMoniker": "C:\\My Files\\Studies\\UClan (BsC)\\Year 2\\Practicals\\C#\\GUI-001\\GUI-001\\FormAvailableCars.cs",
+              "RelativeDocumentMoniker": "GUI-001\\FormAvailableCars.cs",
+              "ToolTip": "C:\\My Files\\Studies\\UClan (BsC)\\Year 2\\Practicals\\C#\\GUI-001\\GUI-001\\FormAvailableCars.cs [Design]",
+              "RelativeToolTip": "GUI-001\\FormAvailableCars.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T15:29:11.952Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormAvailableCars.cs",
+              "DocumentMoniker": "C:\\My Files\\Studies\\UClan (BsC)\\Year 2\\Practicals\\C#\\GUI-001\\GUI-001\\FormAvailableCars.cs",
+              "RelativeDocumentMoniker": "GUI-001\\FormAvailableCars.cs",
+              "ToolTip": "C:\\My Files\\Studies\\UClan (BsC)\\Year 2\\Practicals\\C#\\GUI-001\\GUI-001\\FormAvailableCars.cs",
+              "RelativeToolTip": "GUI-001\\FormAvailableCars.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T15:28:45.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\My Files\\Studies\\UClan (BsC)\\Year 2\\Practicals\\C#\\GUI-001\\GUI-001\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "GUI-001\\Form1.Designer.cs",
+              "ToolTip": "C:\\My Files\\Studies\\UClan (BsC)\\Year 2\\Practicals\\C#\\GUI-001\\GUI-001\\Form1.Designer.cs",
+              "RelativeToolTip": "GUI-001\\Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T08:16:40.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\My Files\\Studies\\UClan (BsC)\\Year 2\\Practicals\\C#\\GUI-001\\GUI-001\\Form1.cs",
+              "RelativeDocumentMoniker": "GUI-001\\Form1.cs",
+              "ToolTip": "C:\\My Files\\Studies\\UClan (BsC)\\Year 2\\Practicals\\C#\\GUI-001\\GUI-001\\Form1.cs",
+              "RelativeToolTip": "GUI-001\\Form1.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwBIAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T08:16:12.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\My Files\\Studies\\UClan (BsC)\\Year 2\\Practicals\\C#\\GUI-001\\GUI-001\\Form1.cs",
+              "RelativeDocumentMoniker": "GUI-001\\Form1.cs",
+              "ToolTip": "C:\\My Files\\Studies\\UClan (BsC)\\Year 2\\Practicals\\C#\\GUI-001\\GUI-001\\Form1.cs [Design]",
+              "RelativeToolTip": "GUI-001\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T07:29:13.388Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 105,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

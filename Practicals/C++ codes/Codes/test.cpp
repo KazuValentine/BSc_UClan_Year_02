@@ -172,8 +172,8 @@ std::vector<std::string> Split(std::string input)
     }
     return list;
 }
-
-int main() {
+void oldMain()
+{
     Strings dataReadings = GetCSpaces("degrees.txt");
     for(auto& pData : dataReadings)
     {
@@ -210,6 +210,114 @@ int main() {
             }
         }
     }
+}
+
+class Fruit
+{
+// public:
+//     int* ptr = new int;
+//     Fruit(int num)
+//     {
+//         *ptr = num;
+//     }
+//     Fruit& operator=(const Fruit& kOriginal)
+//     {
+//         *this->ptr = *kOriginal.ptr;
+//         std::cout << "Hutto" << std::endl;
+//         return *this;
+//     }
+//     //Copy constructor
+//     Fruit(const Fruit& kOriginal)
+//     {
+//         *(this->ptr) = *(kOriginal.ptr);
+//     }
+//     ~Fruit()
+//     {
+//         delete ptr;
+//     }
+};
+
+class Orange : public Fruit
+{
+
+};
+
+class Seedless : public Orange
+{
+
+};
+
+void func(int n)
+{
+    if(n > 0)
+    {
+        func(--n);
+    }
+    std::cout << n << '\t';
+}
+
+int main()
+{
+    func(5);
     return 0;
 }
+
+// int main()
+// {
+//     int x = -1;
+//     try
+//     {
+//         std::cout << "Inside try \n";
+//         if (x < 0)
+//         {
+//             throw x;
+//             std::cout << "After throw \n";
+//         }
+//     }
+//     catch (int x)
+//     {
+//         std::cout << "Exception caught \n";
+//     }
+//     std::cout << "After catch \n";
+//     return 0;
+// }
+
+// int main()
+// {
+//     // Fruit apple(5);
+//     // Fruit grape = apple; //Calls copy constructor
+//     // Fruit papaya(apple); //Calls copy constructor
+//     // std::cout << *apple.ptr << std::endl;
+//     // std::cout << *grape.ptr << std::endl;
+//     // std::cout << *papaya.ptr << std::endl;
+//     // *apple.ptr = 6;
+//     // papaya = apple;
+//     // std::cout << *apple.ptr << std::endl;
+//     // std::cout << *grape.ptr << std::endl;
+//     // std::cout << *papaya.ptr << std::endl;
+//     // system("echo hello world");
+//     Orange* o1 = new Orange();
+//     Orange* o2 = new Orange();
+//     Seedless* s1 = new Seedless();
+//     Fruit* fruitBasket[] = {o1, o2, s1};
+//     return 0;
+// }
+
+// int main()
+// {
+//     try
+//     {
+//         ;
+//     }
+//     catch (int param)
+//     {
+//         std::cout << "int exception\n";
+//     }
+//     catch (...)
+//     {
+//         std::cout << "default exception\n";
+//     }
+//     std::cout << "After Exception";
+//     return 0;
+// }
 

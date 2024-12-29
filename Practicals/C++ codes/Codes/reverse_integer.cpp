@@ -22,6 +22,6 @@ public:
 
 int main()
 {
-    std::cout << Solution::reverse(1534236469) << std::endl;
+    std::cout << Solution::reverse(123456) << std::endl;
     return 0;
 }
